@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# E aí, tudo certo? 🖐
+# E aí, tudo certo? 👋
 
 Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Software 👩‍💻
 
