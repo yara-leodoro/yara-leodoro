@@ -1,6 +1,6 @@
 # E aí, tudo certo? 👋
 
-Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Software 👩‍💻
+Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👩‍💻
 
 - Desenvolvedora back-end Jr 👾
 -  C++ e Python 🐍
