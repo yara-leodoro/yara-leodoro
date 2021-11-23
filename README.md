@@ -9,7 +9,8 @@ Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Anál
 <div align="center">
   <a href="https://github.com/yara-leodoro">
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yara-leodoro&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yara-leodoro&layout=compact&langs_count=7&theme=buefy"/>
+   
 </div>
 <div style="display: inline_block"><br>
 
