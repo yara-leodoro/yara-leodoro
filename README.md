@@ -4,7 +4,7 @@ Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Anál
 
 - Desenvolvedora back-end Jr 👾
 -  C++ e Python 🐍
--  Estudando C# e ASP.NET
+-  Estudando C# e ASP.NET :bulb:
 
 <div align="center">
   <a href="https://github.com/yara-leodoro">
