@@ -2,7 +2,7 @@
 
 Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👩‍💻
 
-- Desenvolvedora back-end Jr 👾
+- Desenvolvedora back-end 👾
 -  C++ e Python 🐍
 -  C# e ASP.NET :bulb:
 
