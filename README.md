@@ -6,11 +6,11 @@ Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando
 -  C++ e Python 🐍
 -  C# e ASP.NET :bulb:
 
--   MLOps 👾
--  Opencv
--  Pandas
+- MLOps 👾
+-  Opencv :scientist:	
+-  Pandas :panda_face:	
 -  Numpy
--  Yolov4 a v8
+-  Yolov4 a v8 :brain:	
 
 <div align="center">
   <a href="https://github.com/yara-leodoro">
