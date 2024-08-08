@@ -1,10 +1,16 @@
 # E aí, tudo certo? 👋
 
-Meu nome é Iara, sou Técnica em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas 👩‍💻
+Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando minha especialização em Ciência de Dados e Inteligência Artificial 👩‍💻
 
 - Desenvolvedora back-end 👾
 -  C++ e Python 🐍
 -  C# e ASP.NET :bulb:
+
+-   MLOps 👾
+-  Opencv
+-  Pandas
+-  Numpy
+-  Yolov4 a v8
 
 <div align="center">
   <a href="https://github.com/yara-leodoro">
