@@ -6,7 +6,7 @@ Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando
 -  C++ e Python 🐍
 -  C# e ASP.NET :bulb:
 
-- MLOps 👾
+- MLOps :construction_worker_woman:	
 -  Opencv :scientist:	
 -  Pandas :panda_face:	
 -  Numpy :chart_with_upwards_trend:
