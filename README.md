@@ -9,7 +9,7 @@ Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando
 - MLOps 👾
 -  Opencv :scientist:	
 -  Pandas :panda_face:	
--  Numpy
+-  Numpy :chart_with_upwards_trend:
 -  Yolov4 a v8 :brain:	
 
 <div align="center">
