@@ -1,16 +1,13 @@
 # E aí, tudo certo? 👋
 
-Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando minha especialização em Ciência de Dados e Inteligência Artificial 👩‍💻
+Meu nome é **Iara Leodoro**, sou **Analista de IA Sr.** com foco em **Agentes Inteligentes, IA Generativa e LLMs** 👩‍💻  
 
-- Desenvolvedora back-end 👾
--  C++ e Python 🐍
--  C# e ASP.NET :bulb:
-
-- MLOps :construction_worker_woman:	
--  Opencv :scientist:	
--  Pandas :panda_face:	
--  Numpy :chart_with_upwards_trend:
--  Yolov4 a v8 :brain:	
+- Desenvolvimento de **Agentes de IA** 🤖  
+- **LLMs e IA Generativa** 🧠  
+- **LangChain, LlamaIndex, CrewAI** ⚙️  
+- **Python e C# | ASP.NET** 💻  
+- **Construção de pipelines multiagentes** 🔄  
+- **Orquestração de fluxos de IA em produção** 🚀  
 
 <div align="center">
   <a href="https://github.com/yara-leodoro">
@@ -22,12 +19,34 @@ Meu nome é Iara, sou Técnica em Informática e MLOps atualmente estou cursando
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C++" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="LangChain" height="30" width="30" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
+  <img align="center" alt="LlamaIndex" height="30" width="30" src="https://avatars.githubusercontent.com/u/123766373?s=200&v=4">
+  <img align="center" alt="CrewAI" height="30" width="30" src="https://avatars.githubusercontent.com/u/144903613?s=200&v=4">
 </div>
+---
+
+### 🚀 Minhas principais stacks  
+
+#### 🔥 Back-end & Linguagens  
+- 🐍 **Python**  
+- ⚡ **C# | ASP.NET**  
+- 👾 **C++** (experiência prévia em visão computacional e segurança)  
+
+#### 🧠 IA Generativa & Agentes  
+- 🤖 **LLMs** (OpenAI, Claude, Gemini, Mistral)  
+- ⚙️ **LangChain | LlamaIndex | CrewAI**  
+- 🛠️ **Construção e orquestração de agentes inteligentes**  
+- 🔄 **Multi-agentes & pipelines autônomos**  
+
+#### 📷 Experiência Anterior em Visão Computacional  
+- 🧪 **OpenCV | TensorFlow | PyTorch**  
+- 🤖 **YOLO (v4 a v8)**  
+- 🧠 **Redes Neurais aplicadas a segurança e monitoramento**  
+
+---
 
 ### Onde me encontrar? 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dvdnotfound)](https://github.com/yara-leodoro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/)](https://www.linkedin.com/in/iara-leodoro-82b2a114a/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yara-leodoro)](https://github.com/yara-leodoro)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iara-leodoro-82b2a114a/)](https://www.linkedin.com/in/iara-leodoro-82b2a114a/)  
