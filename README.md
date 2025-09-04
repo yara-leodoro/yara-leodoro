@@ -23,7 +23,6 @@ Meu nome é **Iara Leodoro**, sou **Analista de IA Sr.** com foco em **Agentes I
   <img align="center" alt="Jupyter Notebook" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="LangChain" height="30" width="30" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
-  <img align="center" alt="CrewAI" height="30" width="30" src="https://avatars.githubusercontent.com/u/144903613?s=200&v=4">
 </div>
 ---
 
