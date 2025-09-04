@@ -5,7 +5,6 @@ Meu nome é **Iara Leodoro**, sou **Analista de IA Sr.** com foco em **Agentes I
 - Desenvolvimento de **Agentes de IA** 🤖  
 - **LLMs e IA Generativa** 🧠  
 - **LangChain, LlamaIndex, CrewAI** ⚙️  
-- **Python e C# | ASP.NET** 💻  
 - **Construção de pipelines multiagentes** 🔄  
 - **Orquestração de fluxos de IA em produção** 🚀  
 
