@@ -26,18 +26,18 @@ Meu nome é **Iara Leodoro**, sou **Analista de IA Sr.** com foco em **Agentes I
 
 ### 🚀 Minhas principais stacks  
 
-#### 🔥 Back-end & Linguagens  
+#### Back-end & Linguagens  
 - 🐍 **Python**  
 - ⚡ **C# | ASP.NET**  
 - 👾 **C++** (experiência prévia em visão computacional e segurança)  
 
-#### 🧠 IA Generativa & Agentes  
+#### IA Generativa & Agentes  
 - 🤖 **LLMs** (OpenAI, Claude, Gemini, Mistral)  
 - ⚙️ **LangChain | LlamaIndex | CrewAI**  
 - 🛠️ **Construção e orquestração de agentes inteligentes**  
 - 🔄 **Multi-agentes & pipelines autônomos**  
 
-#### 📷 Experiência Anterior em Visão Computacional  
+#### Experiência Anterior em Visão Computacional  
 - 🧪 **OpenCV | TensorFlow | PyTorch**  
 - 🤖 **YOLO (v4 a v8)**  
 - 🧠 **Redes Neurais aplicadas a segurança e monitoramento**  
